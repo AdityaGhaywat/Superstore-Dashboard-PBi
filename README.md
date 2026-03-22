@@ -7,7 +7,7 @@ To analyze retail sales data and extract insights on performance across categori
 
 ## ⚙️ Tools Used
 - Power BI  
-- Excel (Data Cleaning)
+- Excel 
 
 ---
 
