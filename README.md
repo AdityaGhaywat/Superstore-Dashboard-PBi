@@ -20,13 +20,13 @@ To analyze retail sales data and extract insights on performance across categori
 ## Dashboard Preview
 
 ### Sales Overview
-![Sales Overview](ScreenShots/Sales_Overview.png)
+![Sales Overview](Dashboards/Sales_Overview.png)
 
 ### Category & Sub-Category Analysis
-![Category Analysis](ScreenShots/Category%20Level%20Analysis.png)
+![Category Analysis](Dashboards/Category%20Level%20Analysis.png)
 
 ### Region & State Analysis
-![Region Analysis](ScreenShots/Region%20%26%20State%20Level%20Analysis.png)
+![Region Analysis](Dashboards/Region%20%26%20State%20Level%20Analysis.png)
 
 ---
 
